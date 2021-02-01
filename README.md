@@ -1,1 +1,1 @@
-# GFG Problems
+# GeeksforGeeks Problems
